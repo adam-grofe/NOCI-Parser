@@ -67,5 +67,5 @@ int main( int argc, char** argv ){
   // Parse NOCI output file
   parseNOCI(fileName,oP,wP,nP);
 
-  std::cout << "Normal Termination\n";
+  std::cerr << "Normal Termination\n";
 }
