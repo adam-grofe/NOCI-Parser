@@ -5,6 +5,7 @@
 #include<vector>
 #include<regex>
 #include<iostream>
+#include<sstream>
 #include<iomanip>
 #include<stdexcept>
 #include<cmath>

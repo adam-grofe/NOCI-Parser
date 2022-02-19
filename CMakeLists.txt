@@ -12,3 +12,6 @@ file(GLOB SOURCES src/*.cxx)
 # Completed executable
 add_executable(parseNOCI ${SOURCES})
 target_link_libraries(parseNOCI ${PROJECT_LINK_LIBS})
+
+# Set C++ Standard to C++14
+set_property(TARGET parseNOCI PROPERTY CXX_STANDARD 14)

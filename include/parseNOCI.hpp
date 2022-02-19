@@ -1,6 +1,17 @@
 
 #pragma once
 
+#include<fstream>
+#include<string>
+#include<memory>
+#include<vector>
+#include<regex>
+#include<iostream>
+#include<sstream>
+#include<iomanip>
+#include<stdexcept>
+#include<cmath>
+
 #include "nocistate.hpp"
 
 // Global variable for printing log info

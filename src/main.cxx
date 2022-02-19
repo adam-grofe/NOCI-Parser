@@ -1,11 +1,6 @@
 
 #include<string>
 #include<cstring>
-#include<iostream>
-#include<iomanip>
-#include<vector>
-#include<regex>
-#include<sstream>
 #include<stdexcept>
 #include "parseNOCI.hpp"
 
